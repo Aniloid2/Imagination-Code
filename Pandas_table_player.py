@@ -5,6 +5,8 @@ from numpy.random import normal
 import re
 import matplotlib.pyplot as plt
 
+##just a comitt
+
 
 conn = sqlite3.connect('database.sqlite')
 
